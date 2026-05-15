@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+benchmark_eval/results/
+silver_annotation_pipeline/runs/*
+!silver_annotation_pipeline/runs/.gitkeep
+

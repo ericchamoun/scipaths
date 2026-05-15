@@ -1,0 +1,14 @@
+arxiv==2.2.0
+bibtexparser
+google-generativeai
+litellm
+numpy
+pandas
+pydantic
+requests==2.32.5
+scipy
+sentence-transformers
+torch
+tqdm
+transformers
+typer

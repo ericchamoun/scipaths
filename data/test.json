@@ -1,0 +1,850 @@
+[
+  {
+    "idx": 0,
+    "target_contribution": "Dataset: A human-annotated dataset of extracted summaries labeled for major unfaithfulness problems, enabling standardized evaluation of factual reliability in extractive summarization."
+  },
+  {
+    "idx": 1,
+    "target_contribution": "Tool: An automatic metric for extractive-summary faithfulness, enabling scalable detection of unfaithful summaries without manual annotation."
+  },
+  {
+    "idx": 2,
+    "target_contribution": "Benchmark: A benchmark for assessing training-free neural architecture search methods on transformer models against downstream task performance."
+  },
+  {
+    "idx": 3,
+    "target_contribution": "Tool: A contextual definition generator that maps a word in context to a natural-language definition, enabling interpretable lexical description of word meaning in use."
+  },
+  {
+    "idx": 4,
+    "target_contribution": "Method: An interpretable word-in-context representation framework based on generated definitions, enabling sense discovery and labeling with natural-language descriptions."
+  },
+  {
+    "idx": 5,
+    "target_contribution": "Resource: A pretrained language model purpose-built for abstractive summarization rather than general-purpose generation, enabling stronger transfer and initialization for summarization systems."
+  },
+  {
+    "idx": 6,
+    "target_contribution": "Tool: A multilingual punctuation-agnostic sentence segmenter, enabling robust sentence splitting for noisy and typologically diverse text."
+  },
+  {
+    "idx": 7,
+    "target_contribution": "Tool: A pretrained word alignment model, enabling out-of-the-box word alignment and alignment-based data labeling across languages."
+  },
+  {
+    "idx": 8,
+    "target_contribution": "Benchmark: A fine-grained constraint-following benchmark for large language models, enabling standardized evaluation of instruction following as constraint complexity increases."
+  },
+  {
+    "idx": 9,
+    "target_contribution": "Benchmark: A bilingual benchmark for emotional understanding and emotional application, enabling standardized evaluation of emotional intelligence in large language models."
+  },
+  {
+    "idx": 10,
+    "target_contribution": "Benchmark: A multilingual multi-task code benchmark with executable evaluation, enabling standardized assessment of code understanding, generation, translation, and retrieval."
+  },
+  {
+    "idx": 11,
+    "target_contribution": "Dataset: An Arabic speech evaluation set spanning under-represented dialects, enabling robustness assessment of ASR systems beyond standard benchmark varieties."
+  },
+  {
+    "idx": 12,
+    "target_contribution": "Dataset: A large pseudo-labeled Arabic speech training mixture, enabling knowledge distillation and training of Arabic ASR models at scale."
+  },
+  {
+    "idx": 13,
+    "target_contribution": "Tool: An LLM-based safety evaluator for question-answer pairs, enabling automatic multi-dimensional assessment of harmfulness and jailbreak vulnerability."
+  },
+  {
+    "idx": 14,
+    "target_contribution": "Benchmark: A hierarchical LLM safety benchmark, enabling joint evaluation of model safety as well as attack and defense methods."
+  },
+  {
+    "idx": 15,
+    "target_contribution": "Method: A general equivariant neural network construction for multivector-valued geometric data, enabling rotation- and Euclidean-equivariant modeling in arbitrary dimensions."
+  },
+  {
+    "idx": 16,
+    "target_contribution": "Finding: A theoretical framework for when intermediate-step reasoning improves prediction, enabling principled analysis of chain-of-thought usefulness."
+  },
+  {
+    "idx": 17,
+    "target_contribution": "Dataset: A judgment benchmark for causal and moral reasoning, enabling comparison of language-model behavior with human responses."
+  },
+  {
+    "idx": 18,
+    "target_contribution": "Resource: An open-source evaluation framework for Bayesian deep learning, enabling reproducible comparison under realistic distribution shift conditions."
+  },
+  {
+    "idx": 19,
+    "target_contribution": "Tool: Signed calibration metrics that distinguish overconfidence from underconfidence, enabling directional calibration assessment of predictive models."
+  },
+  {
+    "idx": 20,
+    "target_contribution": "Benchmark: Open-vocabulary egocentric action-recognition benchmarks, enabling standardized evaluation of action recognition under novel object interactions."
+  },
+  {
+    "idx": 21,
+    "target_contribution": "Resource: A unified dynamic graph learning library, enabling reproducible and comparable benchmarking across continuous-time graph learning tasks."
+  },
+  {
+    "idx": 22,
+    "target_contribution": "Method: A few-shot whole-slide image classification framework with language-guided instance aggregation, enabling improved bag-level prediction from limited labeled slides."
+  },
+  {
+    "idx": 23,
+    "target_contribution": "Method: A sequential multi-agent framework for long-context reasoning, enabling question answering over long inputs without extending a single model’s context window."
+  },
+  {
+    "idx": 24,
+    "target_contribution": "Method: An LLM-based reflective evolutionary framework for automatic heuristic design, enabling discovery of heuristics for new optimization domains."
+  },
+  {
+    "idx": 25,
+    "target_contribution": "Method: A simulation-free flow-matching framework that enables manifold-aware probability paths and vector-field regression."
+  },
+  {
+    "idx": 26,
+    "target_contribution": "Method: A plug-and-play posterior-sampling framework, enabling reconstruction for inverse problems using reusable diffusion priors."
+  },
+  {
+    "idx": 27,
+    "target_contribution": "Method: A test-time optimization framework for one-step text-to-image models, enabling improved image quality and prompt alignment without model fine-tuning."
+  },
+  {
+    "idx": 28,
+    "target_contribution": "Method: A multiview diffusion framework for single-image 3D reconstruction, enabling consistent multiview image generation from a single input view."
+  },
+  {
+    "idx": 29,
+    "target_contribution": "Method: A training-free token-merging method for Transformers, enabling more efficient inference while preserving important information."
+  },
+  {
+    "idx": 30,
+    "target_contribution": "Method: A distillation framework for converting pretrained Transformer language models into efficient hybrid linear-RNN models, enabling faster inference while preserving language-model capability."
+  },
+  {
+    "idx": 31,
+    "target_contribution": "Benchmark: A multilingual natural language understanding benchmark spanning 51 languages, enabling standardized evaluation of multilingual models on task-oriented language understanding."
+  },
+  {
+    "idx": 32,
+    "target_contribution": "Benchmark: A broad audio-language benchmark, enabling standardized evaluation of both audio understanding and audio-grounded instruction following."
+  },
+  {
+    "idx": 33,
+    "target_contribution": "Method: A real-time talking-face generation framework, enabling lifelike avatar video synthesis from a single portrait image and speech."
+  },
+  {
+    "idx": 34,
+    "target_contribution": "Resource: A compact segmentation foundation model, enabling promptable image segmentation and feature encoding with substantially reduced cost."
+  },
+  {
+    "idx": 35,
+    "target_contribution": "Dataset: A multilingual multimodal abstractive summarization dataset spanning 44 languages, enabling training and evaluation of multilingual multimodal summarization systems."
+  },
+  {
+    "idx": 36,
+    "target_contribution": "Benchmark: A unified materials-science NLP benchmark, enabling standardized evaluation of models across diverse materials-text tasks."
+  },
+  {
+    "idx": 37,
+    "target_contribution": "Method: A monolingual word alignment framework that supports flexible matching, enabling robust word-level alignment between semantically divergent sentences."
+  },
+  {
+    "idx": 38,
+    "target_contribution": "Method: A constrained script generation pipeline that generates multiple candidate plans and selects the most constraint-faithful one, enabling more reliable constrained planning."
+  },
+  {
+    "idx": 39,
+    "target_contribution": "Dataset: A dataset of goals paired with constraint-faithful scripts, enabling training and evaluation of constrained language planning systems."
+  },
+  {
+    "idx": 40,
+    "target_contribution": "Resource: A massively multilingual language model covering over 500 predominantly low-resource languages, enabling transfer and downstream adaptation across diverse languages."
+  },
+  {
+    "idx": 41,
+    "target_contribution": "Dataset: A large multilingual text corpus spanning over 500 predominantly low-resource languages, enabling training of massively multilingual language models."
+  },
+  {
+    "idx": 42,
+    "target_contribution": "Tool: A unified factual consistency metric, enabling automatic evaluation of whether generated text is supported by its source context across diverse generation settings."
+  },
+  {
+    "idx": 43,
+    "target_contribution": "Benchmark: A dynamic benchmark for algorithmic reasoning, enabling rigorous evaluation of logical reasoning in large language models."
+  },
+  {
+    "idx": 44,
+    "target_contribution": "Benchmark: A multimodal benchmark for sequential visual reasoning, enabling standardized evaluation of temporal understanding and behavioral hallucinations in vision-language models."
+  },
+  {
+    "idx": 45,
+    "target_contribution": "Dataset: A dataset of image sequences with human-annotated object and behavior descriptions, enabling training and evaluation of models for dynamic visual reasoning."
+  },
+  {
+    "idx": 46,
+    "target_contribution": "Method: A self-consistency metric for explanation faithfulness, enabling fine-grained evaluation of whether model explanations reflect the basis of their predictions."
+  },
+  {
+    "idx": 47,
+    "target_contribution": "Dataset: A dataset of controversial questions paired with conflicting evidence, enabling evaluation of language-model behavior under evidential disagreement."
+  },
+  {
+    "idx": 48,
+    "target_contribution": "Benchmark: A controlled benchmark for representation disentanglement in language models, enabling quantitative comparison of interpretability methods."
+  },
+  {
+    "idx": 49,
+    "target_contribution": "Dataset: A large collection of molecule prediction tasks paired with natural-language instructions, enabling instruction-based learning and evaluation for molecular property prediction."
+  },
+  {
+    "idx": 50,
+    "target_contribution": "Resource: A controllable context-aware paraphrase model, enabling generation of paraphrases for robustness evaluation of AI-text detectors."
+  },
+  {
+    "idx": 51,
+    "target_contribution": "Method: A pipeline for constructing high-quality rationale-augmented visual instruction-tuning data, enabling multimodal training with detailed rationales."
+  },
+  {
+    "idx": 52,
+    "target_contribution": "Method: A multimodal rationale-encoding strategy, enabling compression of long sequential rationales into compact latent representations."
+  },
+  {
+    "idx": 53,
+    "target_contribution": "Tool: An easy-to-hard reasoning evaluation setup, enabling measurement of whether models trained on easy problems can generalize to harder ones."
+  },
+  {
+    "idx": 54,
+    "target_contribution": "Benchmark: An expert-curated benchmark for pragmatic language understanding, enabling fine-grained evaluation of humans and language models on non-literal meaning."
+  },
+  {
+    "idx": 55,
+    "target_contribution": "Benchmark: A unified multilingual text simplification benchmark, enabling standardized evaluation of simplification models across many languages."
+  },
+  {
+    "idx": 56,
+    "target_contribution": "Method: A constrained decoding framework for knowledge-graph question answering, enabling more reliable generation of executable programs."
+  },
+  {
+    "idx": 57,
+    "target_contribution": "Tool: A standardized evaluation setup for multi-step fact-checking, enabling comparison of systems on complex claim verification."
+  },
+  {
+    "idx": 58,
+    "target_contribution": "Method: A program-guided fact-checking framework, enabling explainable verification of complex multi-step claims."
+  },
+  {
+    "idx": 59,
+    "target_contribution": "Benchmark: A temporal reasoning benchmark for question answering, enabling systematic evaluation of time-sensitive reasoning in language models."
+  },
+  {
+    "idx": 60,
+    "target_contribution": "Method: A learning framework for time-sensitive question answering, enabling stronger temporal reasoning across diverse evaluation settings."
+  },
+  {
+    "idx": 61,
+    "target_contribution": "Tool: A latency metric for streaming speech translation, enabling standardized evaluation of delay in unbounded audio-stream settings."
+  },
+  {
+    "idx": 62,
+    "target_contribution": "Dataset: A dialogue dataset for mental manipulation analysis, enabling fine-grained study of manipulative strategies and vulnerabilities in conversation."
+  },
+  {
+    "idx": 63,
+    "target_contribution": "Benchmark: An Arabic cultural visual question-answering benchmark, enabling evaluation of multimodal models on culturally grounded visual understanding."
+  },
+  {
+    "idx": 64,
+    "target_contribution": "Resource: A family of Basque-adapted language models, enabling downstream modeling and transfer for Basque NLP."
+  },
+  {
+    "idx": 65,
+    "target_contribution": "Benchmark: A suite of Basque language understanding benchmarks, enabling standardized evaluation of language models on Basque."
+  },
+  {
+    "idx": 66,
+    "target_contribution": "Method: A role-specialized multi-agent software-development framework, enabling autonomous coordination across multiple stages of software creation."
+  },
+  {
+    "idx": 67,
+    "target_contribution": "Benchmark: A benchmark for quantitative reasoning with real-world data, enabling evaluation of language models on data-grounded reasoning."
+  },
+  {
+    "idx": 68,
+    "target_contribution": "Resource: An open-source vision-language evaluator, enabling rubric-based automatic assessment of image-grounded model outputs."
+  },
+  {
+    "idx": 69,
+    "target_contribution": "Method: An optimal-transport-based learning framework for noisy labels, enabling robust denoising and relabeling during training."
+  },
+  {
+    "idx": 70,
+    "target_contribution": "Method: A black-box language-model control framework, enabling task-specific guidance of model outputs without directly tuning the target model."
+  },
+  {
+    "idx": 71,
+    "target_contribution": "Finding: Interventional latent causal representation learning can be nonlinearly identifiable under known causal structure, enabling recovery guarantees for latent causal components."
+  },
+  {
+    "idx": 72,
+    "target_contribution": "Finding: In GPT-2 small, a sparse internal circuit causally implements greater-than behavior, enabling baseline study of circuit localization methods."
+  },
+  {
+    "idx": 73,
+    "target_contribution": "Benchmark: A diagnostic benchmark for simple numerical comparison behavior in language models, enabling standardized testing of mechanistic interpretability approaches."
+  },
+  {
+    "idx": 74,
+    "target_contribution": "Finding: Stronger swap-based prediction and calibration frameworks are equivalent for convex losses, enabling a unified characterization of omniprediction and multicalibration."
+  },
+  {
+    "idx": 75,
+    "target_contribution": "Method: A representation-agnostic quantization-aware fine-tuning framework for large language models, enabling extreme low-bit compression."
+  },
+  {
+    "idx": 76,
+    "target_contribution": "Dataset: An executable code-training dataset with program-semantics supervision, enabling fine-tuning of code models for generation and debugging tasks."
+  },
+  {
+    "idx": 77,
+    "target_contribution": "Resource: A semantic-aware code language model, enabling downstream adaptation for code generation and code-repair tasks."
+  },
+  {
+    "idx": 78,
+    "target_contribution": "Finding: A theoretical framework for when generative models can outperform their training experts, enabling analysis of transcendence in model behavior."
+  },
+  {
+    "idx": 79,
+    "target_contribution": "Resource: A generalizable reward model, enabling stronger preference scoring for alignment and evaluation."
+  },
+  {
+    "idx": 80,
+    "target_contribution": "Benchmark: A multi-task spatial reasoning benchmark, enabling standardized evaluation of spatial reasoning across language and vision-language models."
+  },
+  {
+    "idx": 81,
+    "target_contribution": "Dataset: A difficulty-aware synthetic math instruction-tuning dataset, enabling more effective training of language models for mathematical problem solving."
+  },
+  {
+    "idx": 82,
+    "target_contribution": "Dataset: A multimodal persona-grounded dialogue dataset with episodic memories, enabling training and evaluation of personalized multimodal dialogue systems."
+  },
+  {
+    "idx": 83,
+    "target_contribution": "Benchmark: A large-scale summarization meta-evaluation benchmark with human judgments, enabling robust assessment of summarization metrics and systems."
+  },
+  {
+    "idx": 84,
+    "target_contribution": "Tool: An atomic-content-based human evaluation protocol for summarization, enabling fine-grained and high-agreement summary assessment."
+  },
+  {
+    "idx": 85,
+    "target_contribution": "Method: A diffusion-based masked language generation framework, enabling non-autoregressive text generation from fully masked text."
+  },
+  {
+    "idx": 86,
+    "target_contribution": "Resource: A multilingual language model adapted for job-market language understanding, enabling downstream modeling and evaluation for employment-related NLP tasks."
+  },
+  {
+    "idx": 87,
+    "target_contribution": "Dataset: A safety-oriented dataset for language-model detoxification, enabling evaluation and training of methods against harmful and adversarial prompts."
+  },
+  {
+    "idx": 88,
+    "target_contribution": "Method: A targeted detoxification method for language models, enabling efficient suppression of toxic behavior without full retraining."
+  },
+  {
+    "idx": 89,
+    "target_contribution": "Benchmark: A bilingual multi-task benchmark for long-context understanding, enabling standardized evaluation of long-context capabilities in large language models."
+  },
+  {
+    "idx": 90,
+    "target_contribution": "Dataset: A large-scale document-level event argument extraction dataset, enabling evaluation of models on more comprehensive event-argument extraction."
+  },
+  {
+    "idx": 91,
+    "target_contribution": "Method: An uncertainty-aware code watermarking method, enabling stronger detectability while preserving functional performance."
+  },
+  {
+    "idx": 92,
+    "target_contribution": "Tool: A code watermarking evaluation framework, enabling standardized assessment of detection quality and functional correctness trade-offs."
+  },
+  {
+    "idx": 93,
+    "target_contribution": "Resource: A fine-grained multimodal knowledge retriever, enabling scalable retrieval for knowledge-based visual question answering and related vision-language tasks."
+  },
+  {
+    "idx": 94,
+    "target_contribution": "Dataset: A multi-task multimodal knowledge-retrieval benchmark suite, enabling standardized training and evaluation of general-purpose multimodal retrievers."
+  },
+  {
+    "idx": 95,
+    "target_contribution": "Dataset: A speech-to-speech dialogue dataset for style-aware conversation, enabling training and evaluation of spoken dialogue models sensitive to speaking style."
+  },
+  {
+    "idx": 96,
+    "target_contribution": "Method: A style-aware multimodal dialogue framework, enabling generation of style-conditioned text and speech responses in spoken conversation."
+  },
+  {
+    "idx": 97,
+    "target_contribution": "Benchmark: An interactive Android benchmark suite for mobile agents, enabling reproducible evaluation of text-only and multimodal agents on smartphone tasks."
+  },
+  {
+    "idx": 98,
+    "target_contribution": "Dataset: A large-scale mobile-agent instruction-tuning dataset, enabling training and fine-tuning of autonomous agents for smartphone tasks."
+  },
+  {
+    "idx": 99,
+    "target_contribution": "Method: A natively trainable sparse attention mechanism for long-context modeling, enabling efficient training and inference on long sequences."
+  },
+  {
+    "idx": 100,
+    "target_contribution": "Benchmark: A fine-grained process-level benchmark for mathematical reasoning, enabling systematic evaluation of step-level error detection in reasoning traces."
+  },
+  {
+    "idx": 101,
+    "target_contribution": "Resource: A compact general-purpose dense retriever, enabling efficient multilingual and long-context text embedding."
+  },
+  {
+    "idx": 102,
+    "target_contribution": "Method: A scalarization framework for generative language models, enabling application of perturbation-based attribution methods to generated text outputs."
+  },
+  {
+    "idx": 103,
+    "target_contribution": "Method: A feature-description evaluation framework that assesses input- and output-faithfulness, enabling measurement of how well descriptions capture model behavior."
+  },
+  {
+    "idx": 104,
+    "target_contribution": "Method: An output-centric feature description framework, enabling natural-language characterization of how model features influence outputs."
+  },
+  {
+    "idx": 105,
+    "target_contribution": "Dataset: A dataset of human pairwise preferences over scientific text revisions, enabling evaluation of automatic and model-based judgment methods."
+  },
+  {
+    "idx": 106,
+    "target_contribution": "Dataset: A mixed-context pretraining corpus for long-context language models, enabling longer-context adaptation without sacrificing general short-context performance."
+  },
+  {
+    "idx": 107,
+    "target_contribution": "Resource: A long-context instruction-following language model, enabling effective reasoning and retrieval over very long inputs while preserving short-context capabilities."
+  },
+  {
+    "idx": 108,
+    "target_contribution": "Benchmark: A multimodal reasoning benchmark designed to prevent text-only shortcut solving, enabling more rigorous evaluation of visual dependence in multimodal models."
+  },
+  {
+    "idx": 109,
+    "target_contribution": "Tool: A dataset diversity metric with greedy subset selection, enabling evaluation and construction of diverse instruction-tuning datasets."
+  },
+  {
+    "idx": 110,
+    "target_contribution": "Method: A tangent-space fine-tuning approach for pretrained models, enabling stronger task-vector composition and model editing."
+  },
+  {
+    "idx": 111,
+    "target_contribution": "Method: A collaborative decoding framework for language generation, enabling faster inference by combining lightweight drafting with large-model verification and refinement."
+  },
+  {
+    "idx": 112,
+    "target_contribution": "Method: A scalable Bayesian optimization algorithm for combinatorial and mixed spaces, enabling reliable optimization in high dimensions."
+  },
+  {
+    "idx": 113,
+    "target_contribution": "Tool: A black-box evaluation protocol for targeted adversarial robustness in vision-language models, enabling standardized assessment of resistance to targeted attacks."
+  },
+  {
+    "idx": 114,
+    "target_contribution": "Finding: Practical Deep Q-Network training with epsilon-greedy exploration and experience replay admits geometric convergence and sample-complexity guarantees."
+  },
+  {
+    "idx": 115,
+    "target_contribution": "Finding: Increased data noise enlarges the set of near-optimal models, enabling formal explanation of why simpler models can remain competitive on noisy data."
+  },
+  {
+    "idx": 116,
+    "target_contribution": "Finding: A theoretical result showing that popular dynamic-programming decompositions for Conditional-Value-at-Risk (CVaR) and Entropic-Value-at-Risk (EVaR) are inherently suboptimal, enabling more careful analysis of risk-sensitive decision-making."
+  },
+  {
+    "idx": 117,
+    "target_contribution": "Finding: A formal expressiveness framework for conditional message passing on knowledge graphs, enabling theoretical comparison of link-prediction architectures."
+  },
+  {
+    "idx": 118,
+    "target_contribution": "Method: A conditional message-passing framework for knowledge-graph link prediction, enabling more expressive pairwise relational representations."
+  },
+  {
+    "idx": 119,
+    "target_contribution": "Method: An outlier-aware post-training quantization method for large language models, enabling stronger low-bit weight-activation quantization."
+  },
+  {
+    "idx": 120,
+    "target_contribution": "Method: A multi-agent learning framework for ad hoc teamwork, enabling cooperation with varying numbers and types of uncontrolled teammates."
+  },
+  {
+    "idx": 121,
+    "target_contribution": "Method: A queryable 3D human localization framework, enabling prediction of arbitrary body keypoints and surface points from a single image."
+  },
+  {
+    "idx": 122,
+    "target_contribution": "Method: A regeneration-based attack on invisible image watermarks, enabling robustness evaluation of watermarking schemes."
+  },
+  {
+    "idx": 123,
+    "target_contribution": "Method: A flow-based diffusion-transformer architecture for stable and scalable generative modeling across modalities."
+  },
+  {
+    "idx": 124,
+    "target_contribution": "Resource: A pretrained text-to-image model with zero-shot multilingual prompting, enabling high-resolution image generation across languages."
+  },
+  {
+    "idx": 125,
+    "target_contribution": "Benchmark: A conversational QA and RAG benchmark, enabling standardized evaluation of large language models across long-document, tabular, arithmetic, and unanswerable grounded reasoning settings."
+  },
+  {
+    "idx": 126,
+    "target_contribution": "Method: A staged instruction-tuning framework for conversational QA and retrieval-augmented generation, enabling stronger use of long context and retrieved evidence."
+  },
+  {
+    "idx": 127,
+    "target_contribution": "Resource: A family of open-weight language models for conversational question answering and retrieval-augmented generation, enabling grounded response generation and model-based supervision."
+  },
+  {
+    "idx": 128,
+    "target_contribution": "Dataset: A benchmark of real-world animal images with varying background typicality, enabling evaluation of vision-language models’ reliance on realistic spurious cues."
+  },
+  {
+    "idx": 129,
+    "target_contribution": "Benchmark: A policy-grounded unsafe-query benchmark, enabling standardized evaluation of jailbreak robustness in aligned language models."
+  },
+  {
+    "idx": 130,
+    "target_contribution": "Benchmark: A complex instruction-following benchmark, enabling standardized evaluation and improvement of models on fine-grained constraint satisfaction."
+  },
+  {
+    "idx": 131,
+    "target_contribution": "Method: A preference-optimization method for complex instruction following, enabling language models to better satisfy fine-grained user constraints."
+  },
+  {
+    "idx": 132,
+    "target_contribution": "Method: A synthetic data generation framework for multi-turn tool use, enabling high-quality function-calling training data for LLM agents."
+  },
+  {
+    "idx": 133,
+    "target_contribution": "Benchmark: A visual cue-linking benchmark for images and videos, enabling standardized evaluation of VLMs’ ability to connect fine-grained cues across contexts."
+  },
+  {
+    "idx": 134,
+    "target_contribution": "Dataset: An Arabic cultural commonsense reasoning benchmark, enabling culturally aware evaluation of language models across Arab regions."
+  },
+  {
+    "idx": 135,
+    "target_contribution": "Dataset: A human-annotated multilingual emotion recognition dataset, enabling training and evaluation of models across diverse languages and text domains."
+  },
+  {
+    "idx": 136,
+    "target_contribution": "Method: An ultra-low-bit weight representation and computation approach, enabling efficient LLM inference on CPU and resource-constrained edge devices."
+  },
+  {
+    "idx": 137,
+    "target_contribution": "Benchmark: An unseen continual instruction-tuning benchmark and evaluation protocol for multimodal large language models, enabling fair evaluation of catastrophic forgetting."
+  },
+  {
+    "idx": 138,
+    "target_contribution": "Method: A parameter-efficient continual instruction-tuning method for multimodal LLMs, enabling reduced catastrophic forgetting across tasks."
+  },
+  {
+    "idx": 139,
+    "target_contribution": "Benchmark: A Chinese factuality benchmark, enabling evaluation of large language models on short-form factual question answering."
+  },
+  {
+    "idx": 140,
+    "target_contribution": "Tool: A monosemanticity score for vision-language representations, enabling quantitative evaluation of feature-level concept coherence."
+  },
+  {
+    "idx": 141,
+    "target_contribution": "Method: A sparse-autoencoder-based framework for vision-language models, enabling interpretable visual feature learning and concept-level multimodal steering."
+  },
+  {
+    "idx": 142,
+    "target_contribution": "Benchmark: A realistic virtual-machine safety benchmark for computer-use agents, enabling evaluation of risky intent and unsafe task completion during interactive execution."
+  },
+  {
+    "idx": 143,
+    "target_contribution": "Method: A decoding framework for pretrained masked discrete diffusion models, enabling iterative refinement and adjustable inference-time compute for text generation."
+  },
+  {
+    "idx": 144,
+    "target_contribution": "Dataset: A high-quality verified natural-language-to-Verilog training dataset, enabling training of models for Verilog generation and repair."
+  },
+  {
+    "idx": 145,
+    "target_contribution": "Dataset: A difficulty-curated visual reasoning dataset, enabling data-efficient reinforcement fine-tuning of vision-language reasoning models."
+  },
+  {
+    "idx": 146,
+    "target_contribution": "Resource: A reinforced visual reasoning model family, enabling stronger reasoning over multimodal tasks with inference-time generation of visual reasoning traces."
+  },
+  {
+    "idx": 147,
+    "target_contribution": "Resource: A diffusion-based vision-language model family, enabling multimodal understanding, bidirectional generation, controllability, and efficient inference tradeoffs."
+  },
+  {
+    "idx": 148,
+    "target_contribution": "Dataset: A multimodal reasoning-and-reflection training dataset, enabling supervised training of MLLMs for step-by-step reasoning and self-correction."
+  },
+  {
+    "idx": 149,
+    "target_contribution": "Method: A frozen-decoder adaptation method, , enabling long-context extension of pretrained decoder-only models with lower training cost than full-model fine-tuning."
+  },
+  {
+    "idx": 150,
+    "target_contribution": "Method: A cascade-deferral analysis framework, enabling systematic diagnosis of failure modes in confidence-based routing under noise and distribution shift."
+  },
+  {
+    "idx": 151,
+    "target_contribution": "Dataset: A natural-language instruction dataset for molecule optimization, enabling evaluation of models on complex multi-property molecular design."
+  },
+  {
+    "idx": 152,
+    "target_contribution": "Method: An automated structured-output LLM-as-a-judge evaluation methodology, enabling reliable assessment of biomedical relation extraction systems."
+  },
+  {
+    "idx": 153,
+    "target_contribution": "Method: A sparse long-context inference acceleration algorithm, enabling efficient attention computation through semantic key retrieval."
+  },
+  {
+    "idx": 154,
+    "target_contribution": "Benchmark: A comprehensive evaluation protocol and benchmark for adaptive retrieval and uncertainty estimation in RAG, enabling standardized comparison of QA performance, efficiency, and self-knowledge across diverse datasets."
+  },
+  {
+    "idx": 155,
+    "target_contribution": "Benchmark: A QA-based web traversal benchmark for deep information-seeking tasks, enabling evaluation of LLM agents’ ability to navigate subpages, extract evidence, and synthesize answers."
+  },
+  {
+    "idx": 156,
+    "target_contribution": "Dataset: A large-scale multilingual corpus covering monolingual and parallel text, enabling the training and evaluation of high-performance multilingual language models and machine translation systems."
+  },
+  {
+    "idx": 157,
+    "target_contribution": "Resource: A universal multimodal retriever, enabling zero-shot composed image retrieval and multimodal feature embedding."
+  },
+  {
+    "idx": 158,
+    "target_contribution": "Dataset: A large-scale synthetic multimodal retrieval dataset, enabling training and evaluation of universal multimodal retrievers."
+  },
+  {
+    "idx": 159,
+    "target_contribution": "Benchmark: A structured visual mathematical reasoning benchmark, enabling fine-grained assessment of large multimodal models’ problem-solving ability."
+  },
+  {
+    "idx": 160,
+    "target_contribution": "Dataset: An open large-scale, high-quality ultra-high-resolution text-to-image dataset with fine-grained captions, enabling the training and evaluation of UHR image synthesis models."
+  },
+  {
+    "idx": 161,
+    "target_contribution": "Tool: An LLM-assisted 3D scene synthesis evaluation protocol, enabling assessment of physical correctness and perceptual scene quality."
+  },
+  {
+    "idx": 162,
+    "target_contribution": "Dataset: A large audio-language reasoning dataset, enabling the training of audio-language models for logical and comparative reasoning."
+  },
+  {
+    "idx": 163,
+    "target_contribution": "Dataset: A vision-language chain-of-thought training dataset, enabling the distillation of reasoning capabilities into large vision-language models."
+  },
+  {
+    "idx": 164,
+    "target_contribution": "Dataset: Large-scale structured chest X-ray report datasets, enabling the training and evaluation of structured radiology report generation systems."
+  },
+  {
+    "idx": 165,
+    "target_contribution": "Resource: A fine-grained disease classification model, enabling precise information extraction and automated evaluation of chest X-ray reports."
+  },
+  {
+    "idx": 166,
+    "target_contribution": "Tool: An LLM-based reference-free evaluation suite for generated taxonomies, enabling automatic structural evaluation of taxonomy quality."
+  },
+  {
+    "idx": 167,
+    "target_contribution": "Method: A multidimensional taxonomy construction framework that dynamically adapts an initial LLM-generated taxonomy to a specific corpus."
+  },
+  {
+    "idx": 168,
+    "target_contribution": "Method: A granularity-aware LLM-based text chunking framework, enabling efficient text segmentation for RAG preprocessing."
+  },
+  {
+    "idx": 169,
+    "target_contribution": "Method: A task-free GUI exploration and trajectory synthesis method, enabling creation of instruction-following GUI-agent trajectories."
+  },
+  {
+    "idx": 170,
+    "target_contribution": "Dataset: A synthetic instruction-following GUI trajectory dataset, enabling GUI-agent training from explored mobile and web interactions."
+  },
+  {
+    "idx": 171,
+    "target_contribution": "Benchmark: A multimodal safety benchmark with harmless text and safety-relevant images,  enabling cross-modality safety evaluation without visual safety information leakage."
+  },
+  {
+    "idx": 172,
+    "target_contribution": "Benchmark: An automated survey-writing benchmark, enabling systematic evaluation of reference use, outline structure, and content quality."
+  },
+  {
+    "idx": 173,
+    "target_contribution": "Dataset: A large synthetic text-rich image instruction dataset, enabling VLM training and derivative dataset construction for text-rich image understanding."
+  },
+  {
+    "idx": 174,
+    "target_contribution": "Method: A code-guided synthetic multimodal data generation framework, enabling scalable creation of targeted text-rich image training data."
+  },
+  {
+    "idx": 175,
+    "target_contribution": "Dataset: A synthetic multi-turn speech-to-speech dialogue dataset, enabling training of spoken chatbot models for real-time interaction."
+  },
+  {
+    "idx": 176,
+    "target_contribution": "Resource: A modular real-time speech language model, enabling low-latency spoken dialogue in speech-to-text and speech-to-speech settings."
+  },
+  {
+    "idx": 177,
+    "target_contribution": "Benchmark: An automated heterogeneous information-retrieval benchmark, enabling scalable evaluation of IR models across diverse tasks, domains, and languages."
+  },
+  {
+    "idx": 178,
+    "target_contribution": "Resource: A contrastively pretrained image-video representation backbone, enabling downstream vision and multimodal systems to use it as a high-performing representation backbone."
+  },
+  {
+    "idx": 179,
+    "target_contribution": "Dataset: A large diverse video-caption dataset, enabling video-language training and fine-grained video-caption retrieval evaluation."
+  },
+  {
+    "idx": 180,
+    "target_contribution": "Dataset: A large-scale web-derived reasoning question dataset, enabling reasoning training beyond math-only settings."
+  },
+  {
+    "idx": 181,
+    "target_contribution": "Tool: A compact generative verifier for short-answer reasoning, enabling contextual equivalence judging and reward computation across diverse answer formats and domains."
+  },
+  {
+    "idx": 182,
+    "target_contribution": "Method: A web-agent training framework, enabling autonomous multi-step browsing and information synthesis in real web environments."
+  },
+  {
+    "idx": 183,
+    "target_contribution": "Dataset: A synthetic web-agent training dataset for deep information seeking, enabling multi-step browsing and answer synthesis."
+  },
+  {
+    "idx": 184,
+    "target_contribution": "Benchmark: A VLA generalization benchmark for pick-and-place tasks, enabling evaluation across visual, semantic, and execution shifts."
+  },
+  {
+    "idx": 185,
+    "target_contribution": "Method: An online RL fine-tuning framework for language-conditioned VLA policies, enabling adaptation in partially observable environments."
+  },
+  {
+    "idx": 186,
+    "target_contribution": "Tool: A reward-free confidence metric for LLM responses, enabling scalable evaluation and best-of-N selection without external reward models."
+  },
+  {
+    "idx": 187,
+    "target_contribution": "Method: A reinforcement-learning post-training method for masked diffusion language models, enabling pretrained dLLMs to improve reasoning capabilities."
+  },
+  {
+    "idx": 188,
+    "target_contribution": "Method: A training paradigm for autoregressive video diffusion, enabling train-test alignment and reduced error accumulation in generated videos."
+  },
+  {
+    "idx": 189,
+    "target_contribution": "Resource: A biologically specialized vision-language foundation model, enabling zero-shot transfer, feature extraction, and fine-tuning across biological vision tasks."
+  },
+  {
+    "idx": 190,
+    "target_contribution": "Dataset: An open dataset of decoupled human preference judgments for helpfulness and harmlessness over generated responses, enabling training and evaluation of safety-aligned language models."
+  },
+  {
+    "idx": 191,
+    "target_contribution": "Tool: Pretrained response-scoring models for helpfulness and harmlessness, enabling automatic safety evaluation and data filtering."
+  },
+  {
+    "idx": 192,
+    "target_contribution": "Method: A constrained RLHF method for safety alignment, enabling language models to balance helpfulness and harmlessness during training."
+  },
+  {
+    "idx": 193,
+    "target_contribution": "Finding: Uniform transformers with log(n) depth can express regular language recognition and graph connectivity, enabling theoretical analysis of transformer depth requirements."
+  },
+  {
+    "idx": 194,
+    "target_contribution": "Method: A normalization-aware residual-stream memory method, enabling reliable scalar storage and retrieval in theoretical transformer constructions."
+  },
+  {
+    "idx": 195,
+    "target_contribution": "Method: A trainable hierarchical sparse attention mechanism for video diffusion transformers, enabling accelerated training and inference."
+  },
+  {
+    "idx": 196,
+    "target_contribution": "Dataset: A high-quality dataset of aligned original and stylized image pairs across diverse artistic styles, enabling the training and evaluation of style-agnostic consistency models for image stylization."
+  },
+  {
+    "idx": 197,
+    "target_contribution": "Method: A dynamic video token pruning strategy, enabling accelerated Video LLM inference while preserving spatiotemporal context."
+  },
+  {
+    "idx": 198,
+    "target_contribution": "Benchmark: A chiral action recognition benchmark based on temporally opposed actions, enabling assessment of time-sensitive video representations."
+  },
+  {
+    "idx": 199,
+    "target_contribution": "Method: A unified visual tokenizer, enabling both autoregressive visual generation and multimodal understanding in one framework."
+  },
+  {
+    "idx": 200,
+    "target_contribution": "Dataset: A large-scale 3D object dataset with part-level physical property annotations, enabling evaluation and training of physics-grounded generation models."
+  },
+  {
+    "idx": 201,
+    "target_contribution": "Dataset: A large-scale cross-OS computer-use demonstration dataset, enabling training and evaluation of vision-based computer-use agents."
+  },
+  {
+    "idx": 202,
+    "target_contribution": "Resource: A suite of open-source vision-language computer-use agent models, enabling autonomous interaction and downstream fine-tuning."
+  },
+  {
+    "idx": 203,
+    "target_contribution": "Benchmark: An offline evaluation suite for computer-use agents, enabling efficient assessment with multiple valid actions per step."
+  },
+  {
+    "idx": 204,
+    "target_contribution": "Method: A reflective long chain-of-thought augmentation method for computer-use data, enabling agent training with planning, memory, and correction reasoning."
+  },
+  {
+    "idx": 205,
+    "target_contribution": "Method: A generalized loss for noisy-label classification, enabling robust neural network training across different label-noise settings."
+  },
+  {
+    "idx": 206,
+    "target_contribution": "Dataset: A large text-video preference dataset with fine-grained quality judgments, enabling preference-aligned video generation and evaluation."
+  },
+  {
+    "idx": 207,
+    "target_contribution": "Resource: An open vision-language model for image and video understanding, enabling detailed multimodal perception without proprietary distillation."
+  },
+  {
+    "idx": 208,
+    "target_contribution": "Dataset: Large-scale video understanding datasets with fine-grained human annotations, enabling training and evaluation of detailed video-language models."
+  },
+  {
+    "idx": 209,
+    "target_contribution": "Dataset: A false-premise QA dataset with rebuttal supervision, enabling models to identify and respond appropriately to invalid assumptions."
+  },
+  {
+    "idx": 210,
+    "target_contribution": "Resource: A reusable dense retrieval embedding model, enabling document retrieval, re-ranking, and downstream retrieval system construction."
+  },
+  {
+    "idx": 211,
+    "target_contribution": "Tool: A long-form QA hallucination annotation system, enabling detailed assessment of factuality, reference support, and hallucination types."
+  }
+]
